@@ -1,5 +1,5 @@
 ### Hi There
-![giphy](https://github.com/MuriloVolante/MuriloVolante/assets/168040355/2d478569-ccb7-456f-81bc-64b8c547e77e)
+
 
 <!--
 **MuriloVolante/MuriloVolante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
