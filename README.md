@@ -34,4 +34,4 @@ Atualmente na área de RH & BI na Viação Garcia, onde construí um pipeline Po
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-bertalha-volante-b6497925b/)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:murilo.bertalha@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](murilo.bertalha@gmail.com)
