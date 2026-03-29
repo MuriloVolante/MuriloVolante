@@ -1,6 +1,6 @@
 # Murilo Volante
  
-**Analista de Dados | BI Developer | Software Engineering Student**
+**Análise de Dados | BI Developer | Software Engineering Student**
  
 Trabalho com dados e automação — transformo processos manuais em pipelines estruturados.
 Atualmente na área de RH & BI na Viação Garcia, onde construí um pipeline Power BI que substituiu um processo inteiramente manual em Excel.
