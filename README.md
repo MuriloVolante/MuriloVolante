@@ -44,7 +44,7 @@ própria interface e registro de uso. O link de cada relatório nunca chega ao c
 ### [Gestão de Chamadas](https://github.com/MuriloVolante/Gestao-Chamadas)
 
 Sistema de chamada de pacientes para o setor médico: o atendimento digita o nome, a TV da
-recepção exibe e toca o jingle. O som não é arquivo de áudio — cada unidade monta a
+recepção exibe e toca o jingle. O som não é arquivo de áudio - cada unidade monta a
 melodia numa grade e o navegador sintetiza na hora com a Web Audio API.
 
 `Next.js 16` `TypeScript` `Drizzle ORM` `Neon Postgres` `Web Audio API`
@@ -61,7 +61,7 @@ faixa de matrícula a partir do nome do arquivo.
 
 Digitalização de prontuários físicos de RH com equipe de 5 aprendizes. Um script Python
 varre a pasta compartilhada, extrai metadados de cada PDF e alimenta um Power BI que
-acompanha o avanço da equipe em tempo real — ‹1.830 prontuários e 82.719 páginas
+acompanha o avanço da equipe em tempo real - ‹1.830 prontuários e 82.719 páginas
 digitalizados›.
 
 `Python` `Power BI` `OneDrive`
